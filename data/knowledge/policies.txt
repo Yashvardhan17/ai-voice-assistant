@@ -1,0 +1,9 @@
+Router restart policy: Power off your router for 30 seconds, reconnect power, and allow up to 5 minutes for the indicator lights to stabilize. Do not factory reset unless support instructs you to do so.
+
+Plan policy: The fictional Fiber 100 plan provides up to 100 Mbps; Fiber 300 provides up to 300 Mbps. Actual speeds depend on network conditions and device capability.
+
+Outage policy: If an active area outage is known, inform the customer about the recorded incident. Do not create duplicate individual tickets automatically for known outages.
+
+Support ticket policy: When no active outage is found and the customer explicitly reports an internet problem, a support ticket can be created for the selected synthetic account. Tickets do not affect external systems.
+
+Account security policy: Password resets require identity verification using the official account portal. This demo cannot reset passwords or access real accounts.

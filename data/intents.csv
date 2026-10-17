@@ -1,0 +1,73 @@
+text,intent
+Why is my bill so high,billing
+Show me my latest invoice,billing
+I was charged twice,billing
+How much do I owe,billing
+My payment was not applied,billing
+I need a receipt for my payment,billing
+Dispute an incorrect charge,billing
+Check my account balance,billing
+Why did my monthly charge increase,billing
+Download my billing statement,billing
+Refund the extra amount charged,billing
+Tell me my payment due date,billing
+My internet is not working,connectivity
+The connection keeps dropping,connectivity
+I cannot connect to wifi,connectivity
+My broadband is very slow,connectivity
+Web pages will not load,connectivity
+No internet connection at my house,connectivity
+My network is unstable,connectivity
+The internet disconnects constantly,connectivity
+My speed is far too low,connectivity
+Wifi connects but has no internet,connectivity
+I cannot browse the web,connectivity
+Internet stopped after restart,connectivity
+I forgot my password,account_access
+Unlock my customer account,account_access
+Cannot sign in to my profile,account_access
+Reset my login credentials,account_access
+My account is locked,account_access
+Help me change my password,account_access
+I forgot my username,account_access
+I cannot access my account,account_access
+Update my registered email,account_access
+I am unable to log in,account_access
+Recover my online account,account_access
+Fix my account authentication,account_access
+Show available internet plans,plan_information
+Can I upgrade my subscription,plan_information
+What does the premium plan include,plan_information
+Compare monthly internet packages,plan_information
+Find a cheaper broadband plan,plan_information
+What is the price of unlimited data,plan_information
+Show available speed tiers,plan_information
+I want to downgrade my package,plan_information
+Which plan supports faster speeds,plan_information
+Explain my current subscription,plan_information
+Change to a family plan,plan_information
+Tell me the plan benefits,plan_information
+Is there an outage in my area,service_outage
+Check for a service disruption,service_outage
+When will the network outage end,service_outage
+Is the provider down today,service_outage
+Are there active network incidents,service_outage
+Show outage status for my area,service_outage
+Is scheduled maintenance happening nearby,service_outage
+Why is the entire neighborhood offline,service_outage
+When will services be restored,service_outage
+Check active outages,service_outage
+Is there a local service interruption,service_outage
+The whole area has lost service,service_outage
+Help me configure my router,technical_support
+How do I restart the modem,technical_support
+Router shows a blinking red light,technical_support
+Guide me through network troubleshooting,technical_support
+How do I update router firmware,technical_support
+Help with router settings,technical_support
+How do I reset the wifi router,technical_support
+The modem indicator keeps flashing,technical_support
+What cables should I check,technical_support
+Assist with device setup,technical_support
+How to change wifi channel,technical_support
+I need technical troubleshooting steps,technical_support
